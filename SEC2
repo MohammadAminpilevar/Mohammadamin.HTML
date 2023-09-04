@@ -1,0 +1,34 @@
+<html>
+    <body>
+            <h1><b>Web Designing Languages <hr></b></h1>
+            <h3>
+                <ol>
+                    <li>HTML</li>
+                </ol>
+            </h3>
+
+            <h4><u>The language for builing web pages</u></h4>
+
+            <h4>
+                    <ul>
+                        <p>   
+                            <li>With <b>HTML</b> you can create your own Website</li>
+                            <li>This tutorial teaches you everything about <b>HTML</b> </li>
+                            <li><b>HTML</b>is easy to learn-You will enjoy it</li>
+                            <li><b>HTML</b>stand for Hyper Text Markup Languege</li>
+                            <li><b>HTML</b>elements are the building blocks of <b>HTML</b> pages</li>
+                            <li><b>HTML</b>elements are represented by tags</li>
+                            <li><b>HTML</b>tags label pieces of cotent such as "heading","paragraph","table",and so on</li>
+                            <li>Browsers do not display  the <b>HTML</b> tads, but use them to render the cotent of the page</li>
+                        </p> 
+                    </ul>
+
+                    Click on image for more dentils
+            </h4>
+
+
+        <hr>    
+              
+    </body>
+
+</html>
