@@ -1,0 +1,102 @@
+<html>
+
+    <head>
+        <title>
+            Akhar
+        </title>
+        <style>
+            td
+            {
+                color: darkred;
+                }
+                input
+            {
+               color: rgb(47, 0, 255); 
+               border-style: dashed;
+                
+            }  
+            table
+            {
+                border-style: groove;
+                border-color: rgb(2, 245, 204);
+                border-bottom-right-radius:10px ;
+                border-top-left-radius: 10px;
+                position:absolute;
+                left: 500px;
+                top: 100px;
+            
+                
+                
+                
+            }
+            tr
+            {
+                 border-color: rgb(255, 0, 0);
+            } 
+            
+
+
+        </style>
+    </head>
+
+
+    <body>
+        <br>   <center>
+        <table border="10"> 
+            <tr>
+                <td><input type="text" placeholder="name"></td>
+                <td><center>نام</center></td>
+            </tr>
+            <tr>
+                <td><input type="email" placeholder=" email"></td>
+                <td>ایمیل</td>
+            </tr>
+            <tr>
+                <td><input type=" password" placeholder="password"></td>
+            </tr>
+            <tr>
+                <td><input type="date"></td>
+                <td>تاریخ تولد</td>
+            </tr>
+            <tr>
+                <td><input type="number"></td>
+                <td>سن</td>
+            </tr>
+            <tr>
+                <td><input type="color"></td>
+                <td>زنگ مورد علاقه</td>
+            </tr>
+            <tr>
+                <td><input type="radio" ><br><input type="radio"></td> 
+                <td>ماسک مزنی یا نه یره؟</td>
+            </tr>
+            <tr>
+                <td><input type="checkbox"><img src="images.jpg" width="20px" height="20px"><input type="checkbox"><img src="C:\Users\ARKA\Desktop\web\large_a210c4ba-a996-407e-936a-ae803ed9debf.webp" height="20px" width="20px"><input type="checkbox" ><img src="1F34A.webp" height="18px" width="18px"><input type="checkbox"><img src="download.jpg" height="15px" width="15px"><input type="checkbox"><img src="images (1).jpg" height="18px" width="18px"></td>
+                <td>میوه مورد علاقه</td>
+            </tr>
+            <tr>
+                <td>
+                    <select>
+                        <option>ایران</option>
+                        <option>امریکا</option></td>
+                    </select>
+                <td>کشور</td>
+            </tr>
+            <tr>
+                <td><input type="text" placeholder="...هر چه میخواهد دل تنگت بگو"></td>
+                <td>زندگینامه</td>
+            </tr>
+            <tr><input type="submit"> </tr>
+
+                   
+            
+        </table>
+    </center>
+    </body>
+
+    
+
+</html>
+
+
+
