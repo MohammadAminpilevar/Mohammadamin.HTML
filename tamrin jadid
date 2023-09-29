@@ -1,0 +1,26 @@
+<html>
+    <heade>
+        <title> Tamrin</title>
+        <style>
+            h1
+            {
+                text-align: center;
+                border: 20px;
+                border-style:dashed;
+                border-left-style: inherit;
+                border-width: 0px;
+            
+
+                
+            }
+        </style>
+    </heade>
+    <body>
+        
+        <h1>  4 پند زندگی</h1>
+        <h2>خودتان را دوست داشته باشید</h2>
+        <h3>به دیگران خوبی کنید</h3>
+        <h4>همه را ببخشید</h4>
+        <h5>مثبت فکر کن</h5>
+    </body>
+</html>
