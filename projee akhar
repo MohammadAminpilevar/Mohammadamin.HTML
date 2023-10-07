@@ -1,0 +1,93 @@
+<html>
+    <heade>
+        <title> project</title>
+        <style>
+            h1
+            {
+                border-style:groove;
+                
+                border-color:goldenrod ;
+                
+                text-align: center;
+                background-color: aqua;
+                margin-right: 500px;
+                margin-left: 500px;
+                border-top-right-radius:20px ;
+                border-bottom-left-radius: 20px;
+                padding: 30px;
+                direction: rtl;
+            }
+            h2
+            {
+                border-style: solid;
+                border-color: blueviolet;
+                background-color: crimson;
+                text-align: center;
+                margin-left: 400px;
+                margin-right: 400px;
+                padding: 20px;
+                border-radius: 10px;
+            }
+           
+            h3
+            {
+                background-color: wheat;
+                border-style: double;
+                border-color: lightcoral;
+                border-top-left-radius: 15px;
+                border-bottom-right-radius: 15px;
+                text-align: center;
+                margin-left: 300px;
+                margin-right: 300px;
+                padding: 15px;
+                font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            }
+            h4
+            {
+                background-color: orangered;
+                border-style: dashed;
+                
+
+                margin-left:500px ;
+                margin-right: 500px;
+                padding:20px ;
+                text-align: center;
+                color: blue;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            #abcd
+            {
+                background-color: darkred;
+                border-style: groove;
+                border-radius: 30px;
+                border-color: cyan;
+                text-align: center;
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            }
+            a:active
+            {
+                background-color: aqua;
+                border-style: groove;
+                border-radius: 20px;
+                border-color: darkgreen;
+            }
+            a:visited
+            {
+                color: orange;
+            }
+            a:hover
+            {
+                color: rgb(2, 241, 150);
+            }
+            
+        </style>
+    </heade>
+    <body>
+        
+        <h1>  4 پند زندگی</h1>
+        <h2><a href="https://bookapo.com/mag/lifestyle/how-to-love-yourself/">خودتان را دوست داشته باشید</a></h2>
+        <h3><a href="https://roozaneh.net/fun/sms/%D9%85%D8%AA%D9%86-%D8%AF%D8%B1-%D9%85%D9%88%D8%B1%D8%AF-%D9%86%DB%8C%DA%A9%DB%8C/">به دیگران خوبی کنید</a></h3>
+        <h4><a href="https://gitishow.com/p/5c65ad61d982efcc5cda9b3c">همه را ببخشید</a></h4>
+        <h3 id="abcd"><a href="https://zoomlife.ir/success/435-steps-positive-thinking.html">مثبت فکر کنید</a></h3>
+    </body>
+</html>
