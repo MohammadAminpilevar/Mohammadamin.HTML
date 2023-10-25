@@ -1,0 +1,18 @@
+
+<html lang="en">
+<head>
+    <title>hogin form</title>
+    <link type="text/css" rel="stylesheet" href="C:\Users\ARKA\Desktop\web\login form style.css">
+
+</head>
+<body>
+    <div>
+        <h1>LOGIN</h1>
+        <input type="email" placeholder="Email" id="email"><br>
+        <input type="password" placeholder="Password" id="pass"><br>
+        <input type="checkbox" id="check"><br>
+        <button id="btn">LOGIN</button>
+        <h3>or logn with</h3>
+    </div>
+</body>
+</html>
